@@ -23,7 +23,7 @@ Steps:
    ```
 7. pull the docker image
    ```
-     docker push farooqmir/hello-docker:latest
+     docker pull farooqmir/hello-docker:latest
    ```
 8. Run the docker image
    ```
